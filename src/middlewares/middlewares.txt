@@ -1,0 +1,7 @@
+Properties of middleware:
+
+1. Whatever data comes in the request can be read 
+
+2. You can also modify the data that comes within the request
+
+3. You can also send a response
